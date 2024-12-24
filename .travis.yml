@@ -9,3 +9,4 @@ before_install:
 
 script:
   - docker run -e CI=true srikar9700/docker-react1 npm run test
+
